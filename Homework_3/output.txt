@@ -1,0 +1,92 @@
+Fortune Cookie Classifier: 
+
+
+iteration: 1 Number of mistakes: 70
+iteration: 2 Number of mistakes: 36
+iteration: 3 Number of mistakes: 18
+iteration: 4 Number of mistakes: 16
+iteration: 5 Number of mistakes: 9
+iteration: 6 Number of mistakes: 8
+iteration: 7 Number of mistakes: 2
+iteration: 8 Number of mistakes: 2
+iteration: 9 Number of mistakes: 2
+iteration: 10 Number of mistakes: 2
+iteration: 11 Number of mistakes: 2
+iteration: 12 Number of mistakes: 2
+iteration: 13 Number of mistakes: 2
+iteration: 14 Number of mistakes: 2
+iteration: 15 Number of mistakes: 2
+iteration: 16 Number of mistakes: 2
+iteration: 17 Number of mistakes: 2
+iteration: 18 Number of mistakes: 2
+iteration: 19 Number of mistakes: 2
+iteration: 20 Number of mistakes: 2
+standard perceptron: 
+
+iteration: 0 training Accuracy: 63.98%  testing Accuracy: 48.51% 
+iteration: 1 training Accuracy: 77.33%  testing Accuracy: 55.45% 
+iteration: 2 training Accuracy: 90.68%  testing Accuracy: 73.27% 
+iteration: 3 training Accuracy: 92.86%  testing Accuracy: 73.27% 
+iteration: 4 training Accuracy: 97.52%  testing Accuracy: 80.20% 
+iteration: 5 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 6 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 7 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 8 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 9 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 10 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 11 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 12 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 13 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 14 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 15 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 16 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 17 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 18 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+iteration: 19 training Accuracy: 99.38%  testing Accuracy: 83.17% 
+testing Accuracy standard perceptron: 99.38 testing Accuracy averaged perceptron: 83.17%
+
+MultiClass Classifier: 
+
+iteration: 1 Number of mistakes: 1922
+iteration: 2 Number of mistakes: 3416
+iteration: 3 Number of mistakes: 4875
+iteration: 4 Number of mistakes: 6327
+iteration: 5 Number of mistakes: 7718
+iteration: 6 Number of mistakes: 9092
+iteration: 7 Number of mistakes: 10480
+iteration: 8 Number of mistakes: 11844
+iteration: 9 Number of mistakes: 13168
+iteration: 10 Number of mistakes: 14490
+iteration: 11 Number of mistakes: 15772
+iteration: 12 Number of mistakes: 17063
+iteration: 13 Number of mistakes: 18353
+iteration: 14 Number of mistakes: 19621
+iteration: 15 Number of mistakes: 20900
+iteration: 16 Number of mistakes: 22182
+iteration: 17 Number of mistakes: 23419
+iteration: 18 Number of mistakes: 24683
+iteration: 19 Number of mistakes: 25907
+iteration: 20 Number of mistakes: 27150
+standard perceptron: 
+
+iteration: 1 training Accuracy: 51.25%  testing Accuracy: 45.93% 
+iteration: 2 training Accuracy: 57.37%  testing Accuracy: 51.00% 
+iteration: 3 training Accuracy: 53.45%  testing Accuracy: 47.95% 
+iteration: 4 training Accuracy: 48.95%  testing Accuracy: 43.05% 
+iteration: 5 training Accuracy: 54.71%  testing Accuracy: 49.20% 
+iteration: 6 training Accuracy: 57.40%  testing Accuracy: 49.65% 
+iteration: 7 training Accuracy: 53.37%  testing Accuracy: 47.13% 
+iteration: 8 training Accuracy: 58.39%  testing Accuracy: 50.75% 
+iteration: 9 training Accuracy: 60.36%  testing Accuracy: 52.27% 
+iteration: 10 training Accuracy: 61.90%  testing Accuracy: 53.14% 
+iteration: 11 training Accuracy: 59.30%  testing Accuracy: 51.37% 
+iteration: 12 training Accuracy: 61.97%  testing Accuracy: 53.64% 
+iteration: 13 training Accuracy: 57.40%  testing Accuracy: 49.55% 
+iteration: 14 training Accuracy: 58.61%  testing Accuracy: 50.75% 
+iteration: 15 training Accuracy: 60.02%  testing Accuracy: 51.40% 
+iteration: 16 training Accuracy: 56.96%  testing Accuracy: 48.74% 
+iteration: 17 training Accuracy: 58.20%  testing Accuracy: 50.33% 
+iteration: 18 training Accuracy: 63.85%  testing Accuracy: 55.14% 
+iteration: 19 training Accuracy: 58.83%  testing Accuracy: 50.25% 
+iteration: 20 training Accuracy: 62.77%  testing Accuracy: 53.91% 
+testing Accuracy standard perceptron: 62.77%  testing Accuracy averaged perceptron: 21.63% 
